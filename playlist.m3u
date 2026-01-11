@@ -1,12 +1,15 @@
 #EXTM3U
 
-######################################
-#   🇧🇷 BRAZIL COMPLETE IPTV LIST     #
-#   LEGAL CHANNELS + PLACEHOLDERS    #
-######################################
+###########################################
+#      🇧🇷 BRAZIL IPTV MEGA PLAYLIST      #
+#           200+ CHANNELS FULL            #
+#   Legal Free Channels + Placeholders    #
+###########################################
 
 
-##############  LEGAL PUBLIC CHANNELS (REAL LINKS)  ##############
+######################################################
+#                LEGAL PUBLIC CHANNELS               #
+######################################################
 
 #EXTINF:-1 tvg-id="TVBrasil" group-title="Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/TV_Brasil_logo.svg",TV Brasil
 https://streaming.cdn.ebc.com.br/tvbrasil/playlist.m3u8
@@ -27,103 +30,58 @@ https://d2gel3ymtv2egl.cloudfront.net/live-redevida/smil:redevida.smil/playlist.
 https://tv-aovivo.aparecidaonline.com/live/smil:tva.smil/playlist.m3u8
 
 
-##########  OPEN TV (ABERTOS) – PLACEHOLDERS  ##########
+######################################################
+#                 OPEN TV (ABERTOS)                  #
+######################################################
+
+### GLOBO (ALL REGIONAL)
 
 #EXTINF:-1 group-title="Abertos" tvg-id="GloboSP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Rede_Globo_logo_2022.svg",Globo SP
 http://YOUR_PROVIDER/globo_sp/index.m3u8
 
-#EXTINF:-1 group-title="Abertos" tvg-id="RecordTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/12/Record_logo_2012.png",RecordTV
-http://YOUR_PROVIDER/record/index.m3u8
+#EXTINF:-1 group-title="Abertos",Globo RJ
+http://YOUR_PROVIDER/globo_rj/index.m3u8
 
-#EXTINF:-1 group-title="Abertos" tvg-id="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/SBT_logo_2021.png",SBT
-http://YOUR_PROVIDER/sbt/index.m3u8
+#EXTINF:-1 group-title="Abertos",Globo MG
+http://YOUR_PROVIDER/globo_mg/index.m3u8
 
-#EXTINF:-1 group-title="Abertos" tvg-id="Band" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Band_logo_2011.png",Band
-http://YOUR_PROVIDER/band/index.m3u8
+#EXTINF:-1 group-title="Abertos",Globo Brasília
+http://YOUR_PROVIDER/globo_df/index.m3u8
 
-#EXTINF:-1 group-title="Abertos" tvg-id="RedeTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Logo_RedeTV%21_%282015%29.png",RedeTV!
-http://YOUR_PROVIDER/redetv/index.m3u8
+#EXTINF:-1 group-title="Abertos",Globo Nordeste
+http://YOUR_PROVIDER/globo_ne/index.m3u8
 
+#EXTINF:-1 group-title="Abertos",Globo Bahia
+http://YOUR_PROVIDER/globo_ba/index.m3u8
 
+#EXTINF:-1 group-title="Abertos",Globo Goiás
+http://YOUR_PROVIDER/globo_go/index.m3u8
 
-##############  SPORTS (PLACEHOLDERS)  ##############
+#EXTINF:-1 group-title="Abertos",Globo Paraná
+http://YOUR_PROVIDER/globo_pr/index.m3u8
 
-#EXTINF:-1 group-title="Esportes" tvg-id="SporTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Logo_SporTV.png",SporTV 1
-http://YOUR_PROVIDER/sportv1/index.m3u8
+#EXTINF:-1 group-title="Abertos",Globo SC
+http://YOUR_PROVIDER/globo_sc/index.m3u8
 
-#EXTINF:-1 group-title="Esportes" tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN
-http://YOUR_PROVIDER/espn/index.m3u8
-
-#EXTINF:-1 group-title="Esportes" tvg-id="ESPNBrasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN Brasil
-http://YOUR_PROVIDER/espn_brasil/index.m3u8
-
-#EXTINF:-1 group-title="Esportes" tvg-id="BandSports" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4e/BandSports_logo.png",BandSports
-http://YOUR_PROVIDER/bandsports/index.m3u8
-
-#EXTINF:-1 group-title="Esportes" tvg-id="PremiereClubes" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0d/Premiere_FC.png",Premiere Clubes
-http://YOUR_PROVIDER/premiere/index.m3u8
-
-#EXTINF:-1 group-title="Esportes" tvg-id="Combate" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/34/Combate_logo.png",Combate
-http://YOUR_PROVIDER/combate/index.m3u8
+#EXTINF:-1 group-title="Abertos",Globo RS
+http://YOUR_PROVIDER/globo_rs/index.m3u8
 
 
-
-##############  MOVIES & SERIES  ##############
-
-#EXTINF:-1 group-title="Filmes" tvg-id="Megapix" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4c/Megapix_logo.png",Megapix
-http://YOUR_PROVIDER/megapix/index.m3u8
-
-#EXTINF:-1 group-title="Filmes" tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/TNT_Logo_2016.png",TNT
-http://YOUR_PROVIDER/tnt/index.m3u8
-
-#EXTINF:-1 group-title="Filmes" tvg-id="TCAction" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/44/Telecine_Action_logo.png",Telecine Action
-http://YOUR_PROVIDER/telecine_action/index.m3u8
-
-#EXTINF:-1 group-title="Filmes" tvg-id="TCPremium" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4f/Telecine_Premium.png",Telecine Premium
-http://YOUR_PROVIDER/telecine_premium/index.m3u8
-
-#EXTINF:-1 group-title="Filmes" tvg-id="TCFun" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c1/Telecine_Fun_2020.png",Telecine Fun
-http://YOUR_PROVIDER/telecine_fun/index.m3u8
-
-#EXTINF:-1 group-title="Filmes" tvg-id="TCClassic" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0b/Telecine_Classic_2020.png",Telecine Classic
-http://YOUR_PROVIDER/telecine_classic/index.m3u8
+### RECORDTV (FULL REGIONAIS)
+#EXTINF:-1 group-title="Abertos",RecordTV SP
+http://YOUR_PROVIDER/record_sp/index.m3u8
+#EXTINF:-1 group-title="Abertos",RecordTV RJ
+http://YOUR_PROVIDER/record_rj/index.m3u8
+#EXTINF:-1 group-title="Abertos",RecordTV MG
+http://YOUR_PROVIDER/record_mg/index.m3u8
+#EXTINF:-1 group-title="Abertos",RecordTV RS
+http://YOUR_PROVIDER/record_rs/index.m3u8
+#EXTINF:-1 group-title="Abertos",RecordTV BA
+http://YOUR_PROVIDER/record_ba/index.m3u8
 
 
-
-##############  KIDS  ##############
-
-#EXTINF:-1 group-title="Infantil" tvg-id="CartoonNetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Cartoon_Network_2010_logo.svg",Cartoon Network
-http://YOUR_PROVIDER/cartoon/index.m3u8
-
-#EXTINF:-1 group-title="Infantil" tvg-id="DiscoveryKids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Discovery_Kids_2016_logo.svg",Discovery Kids
-http://YOUR_PROVIDER/discovery_kids/index.m3u8
-
-#EXTINF:-1 group-title="Infantil" tvg-id="Gloob" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Gloob_logo.png",Gloob
-http://YOUR_PROVIDER/gloob/index.m3u8
-
-
-
-##############  NEWS  ##############
-
-#EXTINF:-1 group-title="Notícias" tvg-id="GloboNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/GloboNews_logo_2010.png",GloboNews
-http://YOUR_PROVIDER/globonews/index.m3u8
-
-#EXTINF:-1 group-title="Notícias" tvg-id="CNNBrasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/CNN_Brasil_logo.png",CNN Brasil
-http://YOUR_PROVIDER/cnn_brasil/index.m3u8
-
-#EXTINF:-1 group-title="Notícias" tvg-id="BandNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/BandNews_logo.png",BandNews
-http://YOUR_PROVIDER/bandnews/index.m3u8
-
-
-
-##############  DOCUMENTARIES  ##############
-
-#EXTINF:-1 group-title="Documentários" tvg-id="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Discovery_Channel_logo_2019.svg",Discovery Channel
-http://YOUR_PROVIDER/discovery/index.m3u8
-
-#EXTINF:-1 group-title="Documentários" tvg-id="NatGeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/National_Geographic_Channel.svg",National Geographic
-http://YOUR_PROVIDER/natgeo/index.m3u8
-
-#EXTINF:-1 group-title="Documentários" tvg-id="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/History_Logo_2015.png",History Channel
-http://YOUR_PROVIDER/history/index.m3u8
-
+### SBT (REGIONAIS)
+#EXTINF:-1 group-title="Abertos",SBT SP
+http://YOUR_PROVIDER/sbt_sp/index.m3u8
+#EXTINF:-1 group-title="Abertos",SBT RJ
+http://YOUR_PROVIDER/sbt_rj/inde
