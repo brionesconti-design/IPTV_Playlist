@@ -1,20 +1,5 @@
 #EXTM3U
 
-# Brazilian FREE LEGAL IPTV Playlist
-
-
-#EXTINF:-1 tvg-id="tvbrasil.br" group-title="BRASIL",TV Brasil
+EXTINF:-1 tvg-id="tvbrasil.br" group-title="Brasil",TV Brasil
 
 https://streaming.servicos.ebc.com.br/tvbrasil/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tvescola.br" group-title="BRASIL",TV Escola
-
-https://video-rvd-dg-nws-cdn.akamaized.net/live/eds/Tvescola/sa-live-240p.m3u8
-
-#EXTINF:-1 tvg-id="canalcamara.br" group-title="BRASIL",TV Câmara
-
-https://stream3.camara.leg.br/tv1/manifest.m3u8
-
-#EXTINF:-1 tvg-id="canalsenado.br" group-title="BRASIL",TV Senado
-
-https://senado.live.e-digital.pro/senado/smil:tv.smil/playlist.m3u8
