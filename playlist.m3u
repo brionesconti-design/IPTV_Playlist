@@ -1,0 +1,60 @@
+#EXTM3U
+
+########## PUBLIC & LEGAL BRAZILIAN CHANNELS ##########
+
+#EXTINF:-1 tvg-id="TVBrasil" group-title="Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/TV_Brasil_logo.svg",TV Brasil
+https://streaming.cdn.ebc.com.br/tvbrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCamara" group-title="Brazil" tvg-logo="https://www.camara.leg.br/themes/camara/images/layout/logo-camara-tv.png",TV Câmara
+https://streaming.camara.leg.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-id="TVSenado" group-title="Brazil" tvg-logo="https://www.senado.leg.br/noticias/LogoTVSenado.png",TV Senado
+https://senado-streaming.secure.footprint.net/live/senado.m3u8
+
+#EXTINF:-1 tvg-id="REDEVIDA" group-title="Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/bd/REDE_VIDA_logo.png",Rede Vida
+https://d2gel3ymtv2egl.cloudfront.net/live-redevida/smil:redevida.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVAparecida" group-title="Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/TvAparecidaLogo.png",TV Aparecida
+https://tv-aovivo.aparecidaonline.com/live/smil:tva.smil/playlist.m3u8
+
+
+########## PAID CHANNEL PLACEHOLDERS (ADD YOUR PROVIDER URLS BELOW) ##########
+
+### OPEN TV
+
+#EXTINF:-1 group-title="Brazil" tvg-id="GloboSP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Rede_Globo_logo_2022.svg",Globo SP
+http://YOUR_PROVIDER/globo_sp/playlist.m3u8
+
+#EXTINF:-1 group-title="Brazil" tvg-id="RecordSP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/12/Record_logo_2012.png",RecordTV SP
+http://YOUR_PROVIDER/record_sp/playlist.m3u8
+
+#EXTINF:-1 group-title="Brazil" tvg-id="SBTSP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/SBT_logo_2021.png",SBT SP
+http://YOUR_PROVIDER/sbt_sp/playlist.m3u8
+
+#EXTINF:-1 group-title="Brazil" tvg-id="BandSP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Band_logo_2011.png",Band SP
+http://YOUR_PROVIDER/band_sp/playlist.m3u8
+
+
+### SPORTS
+
+#EXTINF:-1 group-title="Sports" tvg-id="ESPNBrasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",ESPN Brasil
+http://YOUR_PROVIDER/espn_brasil/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="Sportv1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Logo_SporTV.png",SporTV 1
+http://YOUR_PROVIDER/sportv1/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="PremiereClubes" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0d/Premiere_FC.png",Premiere FC
+http://YOUR_PROVIDER/premiere/playlist.m3u8
+
+
+### MOVIES
+
+#EXTINF:-1 group-title="Movies" tvg-id="Megapix" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4c/Megapix_logo.png",Megapix
+http://YOUR_PROVIDER/megapix/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/TNT_Logo_2016.png",TNT
+http://YOUR_PROVIDER/tnt/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="TCAction" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/44/Telecine_Action_logo.png",Telecine Action
+http://YOUR_PROVIDER/telecine_action/playlist.m3u8
+
