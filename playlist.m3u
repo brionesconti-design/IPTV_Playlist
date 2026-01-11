@@ -1,23 +1,2 @@
-EXTM3U
-
-######################################################
-#                LEGAL PUBLIC CHANNELS               #
-######################################################
-
-#EXTINF:-1 tvg-id="TVBrasil" group-title="Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/TV_Brasil_logo.svg",TV Brasil
-https://streaming.cdn.ebc.com.br/tvbrasil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVCultura" group-title="Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logotipo_da_TV_Cultura.png",TV Cultura
-https://stream.cultura.live/live/tvcultura.m3u8
-
-#EXTINF:-1 tvg-id="TVCamara" group-title="Abertos" tvg-logo="https://www.camara.leg.br/themes/camara/images/layout/logo-camara-tv.png",TV Câmara
-https://streaming.camara.leg.br/tv1/manifest.m3u8
-
-#EXTINF:-1 tvg-id="TVSenado" group-title="Abertos" tvg-logo="https://www.senado.leg.br/noticias/LogoTVSenado.png",TV Senado
-https://senado-streaming.secure.footprint.net/live/senado.m3u8
-
-#EXTINF:-1 tvg-id="REDEVIDA" group-title="Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/bd/REDE_VIDA_logo.png",Rede Vida
-https://d2gel3ymtv2egl.cloudfront.net/live-redevida/smil:redevida.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVAparecida" group-title="Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/TvAparecidaLogo.png",TV Aparecida
-https://tv-aovivo.aparecidaonline.com/live/smil:tva.smil/playlist.m3u8
+#EXTM3U
+# Playlist: Brazilian Channels
