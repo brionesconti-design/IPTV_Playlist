@@ -1,12 +1,5 @@
 #EXTM3U
 
-###########################################
-#      🇧🇷 BRAZIL IPTV MEGA PLAYLIST      #
-#           200+ CHANNELS FULL            #
-#   Legal Free Channels + Placeholders    #
-###########################################
-
-
 ######################################################
 #                LEGAL PUBLIC CHANNELS               #
 ######################################################
@@ -28,60 +21,3 @@ https://d2gel3ymtv2egl.cloudfront.net/live-redevida/smil:redevida.smil/playlist.
 
 #EXTINF:-1 tvg-id="TVAparecida" group-title="Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/TvAparecidaLogo.png",TV Aparecida
 https://tv-aovivo.aparecidaonline.com/live/smil:tva.smil/playlist.m3u8
-
-
-######################################################
-#                 OPEN TV (ABERTOS)                  #
-######################################################
-
-### GLOBO (ALL REGIONAL)
-
-#EXTINF:-1 group-title="Abertos" tvg-id="GloboSP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Rede_Globo_logo_2022.svg",Globo SP
-http://YOUR_PROVIDER/globo_sp/index.m3u8
-
-#EXTINF:-1 group-title="Abertos",Globo RJ
-http://YOUR_PROVIDER/globo_rj/index.m3u8
-
-#EXTINF:-1 group-title="Abertos",Globo MG
-http://YOUR_PROVIDER/globo_mg/index.m3u8
-
-#EXTINF:-1 group-title="Abertos",Globo Brasília
-http://YOUR_PROVIDER/globo_df/index.m3u8
-
-#EXTINF:-1 group-title="Abertos",Globo Nordeste
-http://YOUR_PROVIDER/globo_ne/index.m3u8
-
-#EXTINF:-1 group-title="Abertos",Globo Bahia
-http://YOUR_PROVIDER/globo_ba/index.m3u8
-
-#EXTINF:-1 group-title="Abertos",Globo Goiás
-http://YOUR_PROVIDER/globo_go/index.m3u8
-
-#EXTINF:-1 group-title="Abertos",Globo Paraná
-http://YOUR_PROVIDER/globo_pr/index.m3u8
-
-#EXTINF:-1 group-title="Abertos",Globo SC
-http://YOUR_PROVIDER/globo_sc/index.m3u8
-
-#EXTINF:-1 group-title="Abertos",Globo RS
-http://YOUR_PROVIDER/globo_rs/index.m3u8
-
-
-### RECORDTV (FULL REGIONAIS)
-#EXTINF:-1 group-title="Abertos",RecordTV SP
-http://YOUR_PROVIDER/record_sp/index.m3u8
-#EXTINF:-1 group-title="Abertos",RecordTV RJ
-http://YOUR_PROVIDER/record_rj/index.m3u8
-#EXTINF:-1 group-title="Abertos",RecordTV MG
-http://YOUR_PROVIDER/record_mg/index.m3u8
-#EXTINF:-1 group-title="Abertos",RecordTV RS
-http://YOUR_PROVIDER/record_rs/index.m3u8
-#EXTINF:-1 group-title="Abertos",RecordTV BA
-http://YOUR_PROVIDER/record_ba/index.m3u8
-
-
-### SBT (REGIONAIS)
-#EXTINF:-1 group-title="Abertos",SBT SP
-http://YOUR_PROVIDER/sbt_sp/index.m3u8
-#EXTINF:-1 group-title="Abertos",SBT RJ
-http://YOUR_PROVIDER/sbt_rj/inde
